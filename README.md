@@ -1,2 +1,0 @@
-# NER-project
-NER
